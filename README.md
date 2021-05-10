@@ -5,7 +5,7 @@ This demo was created as part of my master's thesis and is not perfect by any me
 that would need to be worked out to make this a fully functional escape room game. Nonetheless, I have made all of the code
 and assets available so that anyone can take a look at them.
 
-ARScape uses Vuforia Studio to handle all of the augmented reality content placing in virtual space, so this project will not
+ARScape uses Vuforia Engine to handle all of the augmented reality content placing in virtual space, so this project will not
 run without a developer's license. Fortunately, that is free to obtain. https://developer.vuforia.com/ has more information
 on obtaining a license. 
 
