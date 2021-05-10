@@ -13,4 +13,6 @@ As part of my thesis, I wrote a paper that accompanies this game about the desig
 augmented reality escape room. It can be found for free, along with verion two of the build for the game, at this 
 Google Drive folder: https://drive.google.com/drive/folders/1Gf6R_F9OChRK6nwydMSRJqjhaimAVGjm?usp=sharing
 
+Note that the game only runs on Android devices.
+
 If you have any questions about this game, please feel free to contact me at my Twitter account @KSGameDesign
